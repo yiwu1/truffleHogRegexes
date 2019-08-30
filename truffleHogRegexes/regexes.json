@@ -7,8 +7,6 @@
     "Amazon AWS Access Key ID": "AKIA[0-9A-Z]{16}",
     "Amazon MWS Auth Token": "amzn\\.mws\\.[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
     "AWS API Key": "AKIA[0-9A-Z]{16}",
-    "Facebook Access Token": "EAACEdEose0cBA[0-9A-Za-z]+",
-    "Facebook OAuth": "[f|F][a|A][c|C][e|E][b|B][o|O][o|O][k|K].*['|\"][0-9a-f]{32}['|\"]",
     "Generic API Key": "[a|A][p|P][i|I][_]?[k|K][e|E][y|Y].*['|\"][0-9a-zA-Z]{32,45}['|\"]",
     "Generic Secret": "[s|S][e|E][c|C][r|R][e|E][t|T].*['|\"][0-9a-zA-Z]{32,45}['|\"]",
     "Google API Key": "AIza[0-9A-Za-z\\-_]{35}",
